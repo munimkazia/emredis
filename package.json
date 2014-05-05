@@ -1,0 +1,26 @@
+{
+  "name": "emredis",
+  "version": "0.0.1",
+  "description": "Embedded Redis API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munimkazia/emredis"
+  },
+  "keywords": [
+    "redis",
+    "embedded"
+  ],
+  "author": "Abdul Munim Kazia <mail@munimkazia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munimkazia/emredis/issues"
+  },
+  "homepage": "https://github.com/munimkazia/emredis",
+  "dependencies": {
+    "async": "^0.8.0"
+  }
+}
